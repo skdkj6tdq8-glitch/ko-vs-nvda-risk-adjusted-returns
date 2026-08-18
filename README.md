@@ -1,2 +1,2 @@
 # ko-vs-nvda-risk-adjusted-returns
-Comparing risk-adjusted returns of Coca-Cola and NVIDIA using Python
+Built in Google Colab with yfinance and pandas
